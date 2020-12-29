@@ -27,7 +27,7 @@ PROGRAM LANGUAGE                  Batch
 YEAR OF                           2020
 WRITTEN BY                        Andrei Abd
 CODER NAME                        X
-PASSWORD                          753951 (hint: X)
+PASSWORD                          753951
 WORKING DIRECTORY                 current directory
 EXE FORMAT                        32 bit
 CONSOLE                           visible
