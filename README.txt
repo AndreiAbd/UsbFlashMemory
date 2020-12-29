@@ -29,7 +29,7 @@ WRITTEN BY                        Andrei Abd
 CODER NAME                        X
 PASSWORD                          753951
 WORKING DIRECTORY                 current directory
-EXE FORMAT                        32 bit
+EXE FORMAT                        32/64 bit
 CONSOLE                           visible
 REQUEST ADMINISTRATOR PRIVILGES   true
 REQUEST USER PRIVILGES            true
